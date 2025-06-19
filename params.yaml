@@ -1,0 +1,7 @@
+data_ingestion:
+  test_size: 0.2
+feature_engineering: 
+  max_features: 1000
+model_building:
+  eta: 0.3
+  max_depth: 8
